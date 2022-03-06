@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StefanCVen
 - 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning C# & Python
 - 📫 How to teach me... Anyone with tips for starting the coding journey will help alot.
 
 <!---
